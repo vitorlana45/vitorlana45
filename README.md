@@ -34,13 +34,13 @@
  
   
  
-</div>
+
 
 
 <br>
 
 
-## 🔗 Contatos
+## 📞 Contatos
 
 
 <div> 
@@ -50,11 +50,22 @@
   
 </div>
 
+## ✍️ Cursos
+
+
+<div> 
+
+#### Logica de Programação - [Udemy](https://www.udemy.com/certificate/UC-c09d83e4-be50-4b7b-a854-d301ed5e3a3d/) 
+#### HTML & CSS - [Alura](https://cursos.alura.com.br/certificate/21df6b7d-aafc-48c5-a74c-bb3d5a475546) 
+#### Programmer - [Faculade Descomplica](https://cursos.alura.com.br/certificate/21df6b7d-aafc-48c5-a74c-bb3d5a475546)
+  
+</div>
+
 
 <br> 
 
 
-## 🔥 GitHub Stats
+##  GitHub Stats
 
 <div align=center>
 
