@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9001&height=120&section=header"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006ffe&height=120&section=header"/>
 
 <h1 align="center" >  Hello World! I am Vitor Lana! <br>  </h1>
 
@@ -7,25 +8,21 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF9001&width=350&lines=Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=01&width=350&lines=Welcome+To+My+GitHub+Profile!)](https://git.io/typing-svg)
 
 </div>
 
 
 
 ## 🚀 About Me
-
-👩🏽‍💻 23 Years Old
-
-🎓 System Analisys and Development Student
+### Olá Bem Vindo Ao meu Perfil👍, Me chamo Vitor e Curso de Analise e Desenvolvimento de Sistemas e tenho como  Foco o Beck-End minha linguagem escolhida foi o Java e tambem faço BootCamps na [Digital Innovation One](https://www.dio.me/users/vitoresmerio00), Procurando minha primeira oprtunidade de entrar no mercado de trabalho
 
 
 
 <br>
 
 
-## 🛠 Skills
-
+## 🛠 Habilidades
 
 <div style="display: inline_block">
 
@@ -43,13 +40,13 @@
 <br>
 
 
-## 🔗 Contact
+## 🔗 Contatos
 
 
 <div> 
  
-  <a href = "mailto:vitoresmerio00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF9001?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/vitor-lana-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FF9001?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:vitoresmerio00@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FFFFFF?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-lana-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-006ffe?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
 
@@ -81,5 +78,5 @@
 </div>
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9001&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006ffe&height=120&section=footer"/>
 
