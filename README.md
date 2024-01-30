@@ -15,27 +15,24 @@
 
 
 ## 🚀 About Me
-### Olá Bem Vindo Ao meu Perfil👍, Me chamo Vitor e Curso de Analise e Desenvolvimento de Sistemas e tenho como  Foco o Beck-End minha linguagem escolhida foi o Java e tambem faço BootCamps na [Digital Innovation One](https://www.dio.me/users/vitoresmerio00), Procurando minha primeira oportunidade de entrar no mercado de trabalho
+### Olá Bem Vindo Ao meu Perfil👍, Me chamo Vitor e Curso de Analise e Desenvolvimento de Sistemas e tenho como  Foco o FullStack minha linguagem escolhida foi o Java e JavaScript tambem faço BootCamps na [Digital Innovation One](https://www.dio.me/users/vitoresmerio00), Procurando minha primeira oportunidade de entrar no mercado de trabalho
 
 
 
-<br>
 
 
 ## 🛠 Habilidades
 
 <div style="display: inline_block">
 
-<img align="center" alt="VitorLana-Java"  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 
-  <img align="center" alt="VitorLana-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="VitorLana-CSS"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs,postman,html,css,bootstrap,git,github" />
+  </a>
+</p>
  
-  
- 
-
-
 
 <br>
 
