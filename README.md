@@ -15,7 +15,7 @@
 <br>
 
 ## 🚀 About Me
-### Olá Bem Vindo Ao meu Perfil👍, Me chamo Vitor e Curso de Analise e Desenvolvimento de Sistemas e tenho como o BackEnd minha linguagem escolhida foi o Java, faço BootCamps na [Digital Innovation One](https://www.dio.me/users/vitoresmerio00), Procurando minha primeira oportunidade de entrar no mercado de trabalho.
+### Olá Bem Vindo Ao meu Perfil👍, Me chamo Vitor e Curso de Analise e Desenvolvimento de Sistemas e tenho como foco o BackEnd minha linguagem escolhida foi o Java, faço BootCamps na [Digital Innovation One](https://www.dio.me/users/vitoresmerio00), Procurando minha primeira oportunidade de entrar no mercado de trabalho.
 
 
 <br>
