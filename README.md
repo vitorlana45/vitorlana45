@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=006ffe&height=120&section=header"/>
 
-<h1 align="center" >  Hello World! I am Vitor Lana! <br>  </h1>
+<h1 align="center">🌍 Olá Mundo! Eu sou o Vitor Lana! 👨‍💻</h1>
 
 <br>
 
