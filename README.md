@@ -14,8 +14,27 @@
 
 <br>
 
-## 🚀 About Me
-### Olá Bem Vindo Ao meu Perfil👍, Me chamo Vitor e Curso de Analise e Desenvolvimento de Sistemas e tenho como foco o BackEnd minha linguagem escolhida foi o Java, faço BootCamps na [Digital Innovation One](https://www.dio.me/users/vitoresmerio00), Procurando minha primeira oportunidade de entrar no mercado de trabalho.
+🚀 About Me
+
+Olá, bem-vindo ao meu perfil! Me chamo Vitor, estou cursando Análise e Desenvolvimento de Sistemas, e atuo atualmente como Desenvolvedor Full-Stack Jr. Tenho 2 anos de experiência na área de desenvolvimento.
+
+🎯 Objetivo
+
+Meu foco é crescer profissionalmente, aprender novas tecnologias e contribuir para projetos desafiadores que impactem positivamente as pessoas.
+
+<br>
+
+💼 Experiência
+
+Desenvolvedor Full-Stack Jr: Desenvolvimento de aplicações web, APIs RESTful e integrações com bancos de dados.
+
+<br>
+
+🎶 Hobbies & Paixões
+
+Música: Adoro ouvir diferentes estilos musicais e estou sempre aprendendo novos instrumentos.
+
+Exploração do Universo: Sou fascinado pelo cosmos e pela imensidão do universo, sempre curioso sobre como tudo se conecta.
 
 
 <br>
@@ -28,7 +47,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,kafka,mysql,javascript,nodejs,docker,postman,html,css,bootstrap,linux,git,github,vscode" />
+    <img src="https://skillicons.dev/icons?i=java,spring,kafka,postgres,javascript,nodejs,docker,postman,html,css,linux,git,github,vscode" />
   </a>
 </p>
  
